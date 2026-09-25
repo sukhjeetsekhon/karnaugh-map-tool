@@ -10,6 +10,8 @@
 
 An interactive, pedagogical Karnaugh Map (K-map) web application built specifically for students and instructors in **UCSD CSE 140** (Digital Systems & Boolean Logic). The tool bridges algebraic boolean logic, visual subcube grouping, exact Quine-McCluskey minimization, and gate-level circuit synthesis.
 
+Please note that this code is written with AI and is not a representation of my coding ability. I just want to create a useful tool to help with studying and understanding computer engineering concepts.
+
 ---
 
 ## 🌟 Key Features
